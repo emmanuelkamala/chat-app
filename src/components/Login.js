@@ -8,7 +8,8 @@ export default function Login() {
                 <h2>Welcome to Chat App</h2>
                 <div className='login-button google'>
                     <GoogleOutlined /> Sign In With Google
-                </div> <br />
+                </div> 
+                <br /><br />
                 <div className='login-button facebook'>
                     <FacebookOutlined /> Sign In With Facebook
                 </div>
