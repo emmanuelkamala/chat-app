@@ -2,7 +2,7 @@
 
 This is a simple chat app built with React. Users can sign in with Google, create chat groups and chat with different members in the groups.
 
-![screenshot](./images/homepage.png)<br />
+![screenshot](./public/images/1.png)<br />
 
 ## Built With
 
