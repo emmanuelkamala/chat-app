@@ -6,9 +6,8 @@ This is a simple chat app built with React. Users can sign in with Google, creat
 
 ## Built With
 
-- React
-- Firebase
-- Chat Engine
+- ReactJS
+- Chat Engine API
 - CSS
 
 ## Live link
